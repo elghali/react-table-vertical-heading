@@ -8,6 +8,8 @@ npm install
 npm start
 ```
 
+![Demo Image](https://github.com/elghali/react-table-vertical-heading/blob/master/public/images/demo1.png)
+
 # Usage
 
 ```
