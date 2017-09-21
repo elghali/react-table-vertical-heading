@@ -59,7 +59,9 @@ componentDidMount() {
   let rawTable = [...this.props.heading];
   rawTable = _.map(rawTable, (value) => {
     if(!value.columns){
-      return {...value, columns: []}
+      return {...value, columns: []};
+    }else{
+      return value;
     }
   })
   this.setState({
