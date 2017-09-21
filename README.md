@@ -1,14 +1,14 @@
 # react-table-vertical-heading
 A React component rendering a table with vertical heading with the ability to add new columns
 
-#Examples
-To try, clone this repo and run:
+# Examples
+To try this component, clone this repo and run:
 ```
 npm install
 npm start
 ```
 
-#Usage
+# Usage
 
 ```
 import React, { Component } from 'react';
