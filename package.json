@@ -1,7 +1,15 @@
 {
   "name": "react-table-vertical-heading",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.1.1",
+  "private": false,
+  "keywords": [
+    "react table", "react vertical table", "vertical heading table"
+  ],
+  "homepage": "https://github.com/elghali/react-table-vertical-heading",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elghali/react-table-vertical-heading"
+  },
   "dependencies": {
     "lodash": "^4.17.4",
     "react": "^15.6.1",
