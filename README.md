@@ -59,6 +59,8 @@ class VitalSigns extends Component {
   }
 }
 
+```
+
 # Props
 
 Property | Type | Default | Description
