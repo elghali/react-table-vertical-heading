@@ -63,12 +63,8 @@ class VitalSigns extends Component {
 
 Property | Type | Default | Description
 ---------|------|---------|------------
-heading  |array | [
-    { header: 'first heading' },
-    { header: 'second heading' },
-    { header: 'third heading' }
-  ] | An array defining the headings, and if you want to define your own columns, you can add `columns` to every object as in the **Usage** section
+heading  |array | `[{ header: 'first heading' },{ header: 'second heading' },{ header: 'third heading' }]` | An array defining the headings, and if you want to define your own columns, you can add `columns` to every object as in the **Usage** section
 
-  editable | boolean | true | you can set `editable` to `true` to make the table editable and allow columns addition, otherwise the table will be generated with the `heading` array you pass to the component
+editable | boolean | true | you can set `editable` to `true` to make the table editable and allow columns addition, otherwise the table will be generated with the `heading` array you pass to the component
 
 
