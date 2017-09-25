@@ -16,7 +16,7 @@ npm start
 import React, { Component } from 'react';
 import VerticalTable from 'react-table-vertical-heading';
 
-class VitalSigns extends Component {
+class MyComponent extends Component {
   constructor(props) {
     super(props);
 
